@@ -1,5 +1,6 @@
 # LZW - Compression
 ### **_(Ubah file README.md ini setelah program diselesaikan)_**
+Versi 22 Mei 2019 pukul 20:10 WIB.
 
 ## Latar Belakang
 Pengembangan aplikasi yang berkelanjutan (*sustainable*) menjadi sebuah kejaran yang semakin dicari pada akhir-akhir ini. Penggunaan sumberdaya diatur sedemikian rupa agar dapat terbentuk aplikasi yang sehemat mungkin, termasuk penggunaan energi. Terdapat berbagai metode untuk meningkatkan efisiensi sebuah aplikasi, salah satunya adalah mengurangi penggunaan *storage*. Metode yang aktif dikembangkan dan merupakan salah satu yang paling umum untuk diimplementasikan adalah kompresi.
@@ -26,7 +27,7 @@ Terdapat bonus pengerjaan jika bahasa yang digunakan adalah bahasa **Rust**
 - Kebenaran fungsionalitas program
 - Kerapihan kode, *repository* dan README.
 
-Nilai maksimum yang bisa didapatkan adalah **1600 (2600 dengan bonus)** poin. <br>
+Nilai maksimum yang bisa didapatkan adalah **2400 (3600 dengan bonus)** poin. <br>
 
 ## Referensi Pengerjaan
 1. https://users.cs.cf.ac.uk/Dave.Marshall/Multimedia/node214.html
